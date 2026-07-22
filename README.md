@@ -77,6 +77,11 @@ Sysmon64.exe -accepteula -i sysmonconfig-advanced-public-detection-v3.3.xml
 
 This is a research and analysis tool, not a replacement for a full sandbox product. It is meant to help analysts understand behavior faster and to make Windows malware activity easier to inspect.
 
+## Screenshots
+
+<img width="1921" height="877" alt="image" src="https://github.com/user-attachments/assets/abdc9427-2898-46e8-aa94-e0d9f6b2c03d" />
+
+
 ## Credits
 
 API dictionary data used for WinAPI monitoring is credited to Rohitab.
