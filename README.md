@@ -58,14 +58,14 @@ Basic workflow:
 
 Recommended tabs to check first:
 
-- `Process` — process creation, commands, handles, threads, process tree, and process graph
-- `Network` — connections, DNS/domains, URLs, payloads, and streams when available
-- `File` — file and directory behavior
-- `Registry` — registry keys, values, persistence-style activity, and decoded data
-- `Process Injection` — remote memory, APC, thread hijacking, section mapping, and hollowing indicators
-- `Memory` — allocations, protection changes, executable memory, dumps, and recovered runtime strings
-- `WinAPI Monitor` — raw API activity and API-level context
-- `Sysmon Events` — optional Sysmon-based event view with process-focused filtering
+- `Process`: process creation, commands, handles, threads, process tree, and process graph
+- `Network`: connections, DNS/domains, URLs, payloads, and streams when available
+- `File`: file and directory behavior
+- `Registry`: registry keys, values, persistence-style activity, and decoded data
+- `Process Injection`: remote memory, APC, thread hijacking, section mapping, and hollowing indicators
+- `Memory`: allocations, protection changes, executable memory, dumps, and recovered runtime strings
+- `WinAPI Monitor`: raw API activity and API-level context
+- `Sysmon Events`: optional Sysmon-based event view with process-focused filtering
 
 System-wide watcher tabs are also available:
 
