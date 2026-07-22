@@ -145,7 +145,7 @@ This is a research and analysis tool, not a replacement for a full sandbox produ
 
 ## Usage
 
-<img width="1918" height="920" alt="vmware_tq1IA7UWbm" src="https://github.com/user-attachments/assets/25c0fbf8-a0cd-4aff-93b6-438b290485cb" />
+<img width="800" alt="vmware_tq1IA7UWbm" src="https://github.com/user-attachments/assets/25c0fbf8-a0cd-4aff-93b6-438b290485cb" />
 
 ## Credits
 
