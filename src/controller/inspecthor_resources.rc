@@ -1,0 +1,7 @@
+#include "resource.h"
+
+IDI_INSPECTHOR_APP ICON "InspecThor.ico"
+
+IDR_JETBRAINS_MONO_LIGHT_TTF RCDATA "../../bin/Release/JetBrainsMono-Light.ttf"
+IDR_SIGNATURES_DB RCDATA "../../bin/signatures.db"
+IDR_MALWARE_API_PROFILE_JSON RCDATA "../../bin/Release/malware_api_profile.json"
